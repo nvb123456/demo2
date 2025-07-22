@@ -1,0 +1,232 @@
+{
+  "Bradford": {
+    "voice_id": "NNl6r8mD7vthiJatiJt1",
+    "settings": {
+      "speed": 1.0,
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨‍💼Josh": {
+    "voice_id": "TxGEqnHWrfWFTfGW9XjX",
+    "settings": {
+      "speed": 0.83,
+      "stability": 0.93,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨‍💼Liam": {
+    "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+    "settings": {
+      "speed": 0.81,
+      "stability": 0.95,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨‍💼Antoni": {
+    "voice_id": "ErXwobaYiN019PkySvjV",
+    "settings": {
+      "speed": 0.84,
+      "stability": 0.95,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨🏻‍🦰Chris": {
+    "voice_id": "iP95p4xoKVk53GoZ742B",
+    "settings": {
+      "speed": 0.81,
+      "stability": 0.4,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨🏻‍🦰Arnold": {
+    "voice_id": "VR6AewLTigWG4xSOukaG",
+    "settings": {
+      "speed": 0.86,
+      "stability": 0.4,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨🏻‍🦰Adam": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "settings": {
+      "speed": 0.86,
+      "stability": 0.4,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨🏻‍🦰Brian": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "settings": {
+      "speed": 0.83,
+      "stability": 0.96,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨🏻‍🦰Roger": {
+    "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+    "settings": {
+      "speed": 0.86,
+      "stability": 0.4,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨🏻‍🦰Paul": {
+    "voice_id": "5Q0t7uMcjvnagumLfvZi",
+    "settings": {
+      "speed": 0.86,
+      "stability": 0.9,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨🏻‍🦰Drew": {
+    "voice_id": "29vD33N1CtxCmqQRPOHJ",
+    "settings": {
+      "speed": 0.86,
+      "stability": 0.9,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👴🏻Michael": {
+    "voice_id": "flq6f7yk4E4fJM5XTYuZ",
+    "settings": {
+      "speed": 0.83,
+      "stability": 0.96,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👴🏻Jessie": {
+    "voice_id": "t0jbNlBVZ17f02VDIeMI",
+    "settings": {
+      "speed": 0.86,
+      "stability": 0.9,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👴🏻Bill": {
+    "voice_id": "pqHfZKP75CvOlQylNhV4",
+    "settings": {
+      "speed": 0.86,
+      "stability": 0.9,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👩‍🦳Emily": {
+    "voice_id": "LcfcDJNUP1GQjkzn1xUU",
+    "settings": {
+      "stability": 0.43,
+      "similarity_boost": 0.28,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true,
+      "speed": 1.05
+    }
+  },
+  "👩‍🦳Glinda": {
+    "voice_id": "z9fAnlkpzviPz146aGWa",
+    "settings": {
+      "stability": 0.43,
+      "similarity_boost": 0.28,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true,
+      "speed": 1
+    }
+  },
+  "👩‍🦳Serena": {
+    "voice_id": "pMsXgVXv3BLzUgSXRplE",
+    "settings": {
+      "stability": 0.43,
+      "similarity_boost": 0.28,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true,
+      "speed": 1
+    }
+  },
+  "👩‍🦳Matilda": {
+    "voice_id": "XrExE9yKIg1WjnnlVkGX",
+    "settings": {
+      "stability": 0.43,
+      "similarity_boost": 0.28,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true,
+      "speed": 1
+    }
+  },
+  "👩‍🦳River": {
+    "voice_id": "SAz9YHcvj6GT2YYXdXww",
+    "settings": {
+      "stability": 0.43,
+      "similarity_boost": 0.28,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true,
+      "speed": 1
+    }
+  },
+  "👴🏻Callum": {
+    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+    "settings": {
+      "stability": 0.43,
+      "similarity_boost": 0.28,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true,
+      "speed": 1
+    }
+  },
+  "👴🏻Clyde": {
+    "voice_id": "2EiwWnXFnvU5JabPnv8n",
+    "settings": {
+      "speed": 0.86,
+      "stability": 0.9,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👨B. Patrone - Peaceful & Meditative": {
+    "voice_id": "p28fY1cl6tovhD2M4WEH",
+    "settings": {
+      "speed": 1.05,
+      "stability": 0.95,
+      "similarity_boost": 0.95,
+      "style_exaggeration": 0,
+      "use_speaker_boost": true
+    }
+  },
+  "👴🏻Drstephe": {
+    "voice_id": "eC5XQ2bYx6LQHFG29bNv",
+    "settings": {
+      "speed": 1.0,
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style_exaggeration": 0.0,
+      "use_speaker_boost": true
+    }
+  }
+}
