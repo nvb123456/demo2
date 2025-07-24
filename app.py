@@ -110,11 +110,11 @@ st.markdown("💬 Nhập hoặc tải file `.txt` / `.srt`. App sẽ đọc gi�
 uploaded_file = st.file_uploader("📂 Tải file văn bản", type=["txt", "srt"])
 text_input = st.text_area("✍️ Nhập văn bản (mỗi dòng = 1 file):", height=200)
 
-# Giọng đọc
+# Giọng đọc (Bradford đã sửa đúng ID)
 voice_options = {
     "👩 Bella (Nữ)": "21m00Tcm4TlvDq8ikWAM",
     "👨 Thomas (Nam)": "TxGEqnHWrfWFTfGW9XjX",
-    "🧑 Bradford (Anh)": "EXAVITQu4vr4xnSDxMaL",
+    "🧑 Bradford (Nam - UK)": "NNl6r8mD7vthiJatiJt1",  # ✅ Voice nam chuẩn
     "🎤 Tuỳ chỉnh 1": "DvG3I1kDzdBY3u4EzYh6",
     "🎧 Nữ mềm mại": "7uqEZLMssORVvKMLEUi4"
 }
